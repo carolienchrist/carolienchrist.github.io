@@ -1,0 +1,19 @@
+html,
+body {
+  line-height: 1.5;
+  font-family: "Open Sans",arial,x-locale-body,sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+hr {
+  border: 0px;
+  width: 60%;
+  color: #465061;
+  background-color: #465061;
+  height: 1px;
+  margin: 30px;
+}
